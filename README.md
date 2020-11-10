@@ -1,3 +1,3 @@
-# time-series
+# Time series
 
 Coming soon.
